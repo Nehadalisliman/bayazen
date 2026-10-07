@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317038133167",
+    "project_id": "shoespage-295e7",
+    "storage_bucket": "shoespage-295e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317038133167:android:32ad45883823e39d58795a",
+        "android_client_info": {
+          "package_name": "app.bayzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnIC9DgSLTeFhmFJSEFD7C7DU6O6hHcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

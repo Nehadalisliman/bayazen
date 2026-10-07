@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "317038133167",
+    "project_id": "shoespage-295e7",
+    "storage_bucket": "shoespage-295e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317038133167:android:placeholderapp12345",
+        "android_client_info": {
+          "package_name": "com.education.learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyPlaceholderKeyForFirebaseInitialization12345"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": "1"
+        },
+        "appinvite_service": {
+          "status": "1"
+        },
+        "ads_service": {
+          "status": "2"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
